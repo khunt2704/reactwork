@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactwork/static/css/main.46723a24.chunk.css",
-    "main.js": "/reactwork/static/js/main.451fb100.chunk.js",
-    "main.js.map": "/reactwork/static/js/main.451fb100.chunk.js.map",
+    "main.js": "/reactwork/static/js/main.8f2ea9ba.chunk.js",
+    "main.js.map": "/reactwork/static/js/main.8f2ea9ba.chunk.js.map",
     "runtime-main.js": "/reactwork/static/js/runtime-main.fa4234be.js",
     "runtime-main.js.map": "/reactwork/static/js/runtime-main.fa4234be.js.map",
     "static/css/2.383c0125.chunk.css": "/reactwork/static/css/2.383c0125.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.8646f9ea.chunk.js",
     "static/css/main.46723a24.chunk.css",
-    "static/js/main.451fb100.chunk.js"
+    "static/js/main.8f2ea9ba.chunk.js"
   ]
 }
